@@ -155,7 +155,6 @@ margin:var(--padding);
     color: var(--red-color);
     font-size: var(--font-medium);
 }
-
 /* Up Next */
 .upNext{
     padding:0 var(--padding);
